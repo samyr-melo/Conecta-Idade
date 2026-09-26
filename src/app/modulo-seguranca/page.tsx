@@ -68,7 +68,7 @@ export default function ModuloSeguranca() {
                 </div>
 
                 <p className="text-xl font-medium text-slate-700 dark:text-slate-300 mb-6">
-                    Preencha a simulação de cadastro. Lembre-se: em sites comuns, nunca digite senhas de banco ou códigos do celular[cite: 1]!
+                    Preencha a simulação de cadastro. Lembre-se: em sites comuns, nunca digite senhas de banco ou códigos do celular!
                 </p>
 
                 <form onSubmit={handleSubmeter} className="space-y-6">
